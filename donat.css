@@ -1,0 +1,303 @@
+
+
+.slider{
+  background-image:url(images/donation5.jpg) ;
+    background-repeat:no-repeat ;
+height: 700px;
+background-attachment: scroll;
+background-size: 100% 100%;
+position: relative;
+text-align: center;
+color: white;
+
+
+}
+.context{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.red{filter: brightness(50%);
+padding: 166px 384px 345px 266px; 
+text-align:center; 
+ font-weight: 700px;
+ font-size: 24px;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+.white{
+ text-align: center;
+ font-size:65px ;
+ color: #ffffff;  
+}
+.blue{
+  text-align: center;
+  font-weight:20px ;
+   font-size:24px ;
+  color: #ffffff;
+ margin:20px 40px 0px 40px ;  
+}
+.yellow{
+  padding: 8px 10px; 
+ border-radius:5px ;
+ background-color:#ff5959 ;
+ border:none ;
+ color:#ffffff ;
+ font-size:20px ;
+ margin:20px 300px 124px 300px ;
+ font-weight: 600;
+ text-align: center;
+}
+
+.indego{
+  list-style:none ;
+  display: flex;
+  margin-right: 390px;
+}
+.add{
+ background-color: #FFEEEE;
+ padding:35px  25px 35px 25px; 
+ border-radius:5px ;
+ margin-left: 22px;
+ /* margin-top: 50px; */
+ margin-bottom:95px ;
+ color:#707070 ;
+ border:2px solid #ff5959;
+font-weight: 30px;
+font-size:30px ;
+}
+.add:hover{
+background-color: #ff5959;
+}
+.vialod{
+border-radius: 5px;
+/* margin-top:100px ; */
+  margin-bottom:95px ;  
+font-size: 30px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-weight: 30px;
+color: white;
+ padding: 40px 20px 40px 20px; 
+background-color: #707070;
+margin-left:22px  ;
+}
+.green{
+  margin:  100px 340px;
+  text-align: center;
+  margin-bottom:10px ;
+   margin-top:0px ;
+}
+.river{
+text-align: center;
+font-weight: 400px;
+font-size:50px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ margin-top:132px ; 
+}
+.hill{
+text-align: center;
+color:#707070 ;
+ font-size:20px ;
+ margin:80px 120px ;
+margin-top:30px ;
+}
+.bt{
+  padding: 15px 22px; 
+ border-radius:5px ; 
+background-color: #ff5959;
+border:none ;
+color: #ffffff;
+margin-top:30px ;
+ /* margin: 20px 300px 124px 300px ; */
+ font-weight: 600px;
+ font-size:22px ;
+}
+.my{
+ color: #939393;
+font-size:20px ;
+ margin-bottom:50px;  
+  text-align: center;
+
+}
+.bbb{
+ /* margin-bottom: 500px; */
+  /* padding:50px 50px; */
+
+}
+.baba{
+display: flex;
+padding:30px 20px ;
+width:30% 30% 30% ;
+}
+.plan{
+ padding:50px 175px ; 
+  text-align: center; 
+ 
+}
+.st{
+ padding: 60px 50px 60px 50px ; 
+ background-color:#eef6f7 ; 
+  margin-left: 22px;  
+border-radius:5px ; 
+margin:10px 10px ;
+}
+.nd{
+  padding:60px 50px 60px 50px ;  
+ background-color:#ffefef;
+  margin-left:22px ; 
+ border-radius:5px ; 
+  margin: 10px 10px; 
+ 
+
+}
+.rd{
+   padding: 60px 50px 60px 50px; 
+ background-color:#fff4d6;
+ margin-left:22px ; 
+ border-radius:5px ;
+margin:10px 10px ;
+
+
+}
+.rst{
+ 
+
+}
+.fish{
+ font-size:20px ; 
+}
+.fruit{
+ font-size:10px ;
+  color: #939393;
+}
+.flax{
+ display: flex;
+ margin:200px 150px 200px 150px ;  
+}
+.book{
+font-size:40px ;
+color: black;
+margin:0px 20px ;
+}
+.pen{
+ font-size:20px ; 
+ color: #aeaeae;
+}
+.pg{
+ font-weight: 600px;
+ font-size:45px ;
+ margin:200px 150px 200px 150px ;
+}
+.sn{
+font-weight: 800px;
+font-size:50px ;
+margin:170px 83px 20px 120px ;
+ margin-left:45px ; 
+margin-right:90px ;
+}
+.lm{
+font-size: 20px ;
+font-weight: 400;
+margin-left:5px ;
+margin-right: 95px; 
+color: #aeaeae;
+}
+.pink{
+padding:280px1 80px 120px 280px ;
+}
+.orange{
+ padding-left: 34px;
+   /* padding:50px 100px  90px 100px; */
+ margin:350px 250px 350px 250px;  
+margin-bottom: 100px;
+}
+.ttt{
+  background-color:#ff5959 ;
+  color: white;
+  font-size: 16px;
+  border:none ;
+  border-radius:5px ;
+  font-weight:500px ;
+  padding:14px 42px ;  
+}
+.flax2{
+ display: flex; 
+}
+.mm{
+ font-size:45px ;
+ font-weight:700px ;
+ text-align: center;
+ margin-top:130px ;
+}
+.tt{
+font-weight:20px ;
+font-size:18px ;
+color:#939393 ;
+margin:45px 50px;
+font-size:20px ;
+}
+.mari{
+ background-color:#ff5959 ; 
+color: #FFEEEE;
+padding:16px 20px ;
+font-weight: 400;
+font-size:18px ;
+margin-top: 30px;
+border: none;
+border-radius: 5px;
+}
+.bela{
+ text-align: center;
+ margin-top:130px ;
+ margin:20px 474px 50px 475px;
+}
+.rose{
+font-weight:700px;
+font-size:45px ;
+}
+.lily{
+font-size:18px ;
+font-weight: 400;
+color:#aeaeae ;
+}
+.foot{
+ background-color: #0B0D17 ; 
+}
+.book{
+color: #ff5959;
+text-align: center;
+padding-top:43px ;
+margin-bottom:48px ;
+font-family:italic ;
+}
+.go{
+color: #8c8e95;
+text-align: center;
+padding-bottom:42px ;
+font-weight: 400;
+font-size: 14px;
+}
+.abc{
+background-color:#fff4d6 ;
+margin:0px 415px 130px 415px;
+padding:76px 245px 76px 189px ;
+}
+.email{
+padding: 14px 18px 14px 17px;
+border:none ;
+font-weight: 500;
+font-size:16px ;
+background-color:#d9d9d9 ;
+}
+.button{
+background-color:#ff5959 ;
+color: white;
+font-size: 16px;
+border:none ;
+border-radius:5px ;
+font-weight:500px ;
+padding:14px 42px ;
+}
+.efg{
+ display: flex; 
+}
